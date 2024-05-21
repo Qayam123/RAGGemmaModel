@@ -3,7 +3,7 @@ git clone https://github.com/Qayam123/RAGGemmaModel.git
 cd RAGGemmaModel
 
 #run the following commands in the command line
-curl -fsSL https://ollama.com/install.sh | sh
+curl -fsSL https://ollama.com/install.sh 
 
 ollama pull llama3
 
